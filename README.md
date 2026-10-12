@@ -7,7 +7,7 @@ Turning Operational Data into Actionable Insights 📊
 
 - ⚙️ 1 year of experience in EV battery pack assembly, production operations, quality control, and process audits.
 - 📊 Interested in using data to identify trends, track KPIs, investigate recurring defects, and improve operational         efficiency.
-- 🌱 Building end-to-end analytics projects using SQL, Power BI, and Excel.
+- 🌱 Building end-to-end projects using SQL, Power BI, and Excel.
 - 🤖 Exploring AI tools to improve productivity and work smarter.
 
 ✅ Key Skills
