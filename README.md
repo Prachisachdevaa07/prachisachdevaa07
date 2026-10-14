@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prachi Sachdeva
 
-# I' m Passionate about turning data into meaningful insights that support data-driven decision-making, process improvement, and operational efficiency.
+**I'm Passionate about turning data into meaningful insights that support data-driven decision-making, process improvement, and operational efficiency**.
 
 🎯**Current focus**: Transforming raw sales, inventory, production, and delivery performace data into actionable insights through interactive dashboards and visualizations using Power BI and Excel, while leveraging SQL to query, analyze, and extract meaningful insights from data.
 
@@ -10,9 +10,6 @@ From tracking production on the shop floor to building dashboards and uncovering
 Who knew the data behind manufacturing could lead me to the exciting world of data?😄
 
 ---
-
-### 🛠️ Lanaguage and tools
-
 ## 🛠️ Languages and Tools:
 
 <p align="left">
@@ -25,10 +22,10 @@ Who knew the data behind manufacturing could lead me to the exciting world of da
 ## 🤝 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/prachisachdevaa07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:prachisachdeva02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
