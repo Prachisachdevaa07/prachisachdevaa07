@@ -10,13 +10,22 @@ From tracking production on the shop floor to building dashboards and uncovering
 Who knew the data behind manufacturing could lead me to the exciting world of data?😄
 
 ---
-## 🛠️ Languages and Tools:
+## 💻 Technical Skills:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Basic"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+## 🛠️ Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ## 🤝 Connect with me:
@@ -29,3 +38,7 @@ Who knew the data behind manufacturing could lead me to the exciting world of da
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+🔗 **LinkedIn:** [https://www.linkedin.com/in/prachisachdevaa07/](https://www.linkedin.com/in/prachisachdevaa07/)
+
+📧 **Email:** [prachisachdeva02@gmail.com](mailto:prachisachdeva02@gmail.com)
