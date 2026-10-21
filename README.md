@@ -2,7 +2,7 @@
 
 **I'm Passionate about turning data into meaningful insights that support data-driven decision-making, process improvement, and operational efficiency**.
 
-🎯**Current focus**: Transforming raw sales, inventory, production, and delivery performance data into actionable insights through interactive dashboards and visualizations using Power BI and Excel, while leveraging SQL to query, analyze, and extract meaningful insights from data.
+🎯**Current focus**: Transforming raw data into actionable insights through interactive dashboards and visualizations using Power BI and Excel, while leveraging SQL to query, analyze, and extract meaningful insights from data.
 
 **About me**:
 I started my career in manufacturing, tracked operational data and monitoring production processes. Now, I’m turning that same operational data into meaningful insights! 📊
