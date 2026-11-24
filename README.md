@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Prachi Sachdeva
 
-**I'm Passionate about turning data into meaningful insights that support data-driven decision-making, process improvement, and operational efficiency**.
+I'm passionate about turning data into meaningful insights that support data-driven decision-making, process improvement, and operational efficiency.
 
-🎯**Current focus**: Transforming raw data into actionable insights through interactive dashboards and visualizations using Power BI and Excel, while leveraging SQL to query, analyze, and extract meaningful insights from data.
+🎯 **Current Focus:** Transforming raw data into actionable insights through interactive dashboards and visualizations using Power BI and Excel, while leveraging SQL for data analysis. I'm also exploring AI tools and workflow automation using n8n to streamline business processes and improve operational efficiency.
 
-**About me**:
-I started my career in manufacturing, tracked operational data and monitoring production processes. Now, I’m turning that same operational data into meaningful insights! 📊
-From tracking production on the shop floor to building dashboards and uncovering trends, my journey has evolved from monitoring operations to making data-driven decisions. 🚀
-Who knew my manufacturing experience would lead me into the exciting world of data? 😄
+**About Me:** I started my career in manufacturing, where I gained hands-on experience tracking operational data and monitoring production processes. Today, I'm combining that industry experience with data analytics, visualization, and AI-powered automation.
+
+📊 From tracking production on the shop floor to building dashboards, identifying trends, and exploring intelligent automation, my journey has evolved from monitoring operations to enabling data-driven decisions.
+
+🚀 I'm passionate about bridging the gap between operations, data analytics, and AI to solve real-world business problems.
 
 ---
 ## 💻 Technical Skills:
