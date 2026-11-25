@@ -2,7 +2,9 @@
 
 I'm passionate about turning data into meaningful insights that support data-driven decision-making, process improvement, and operational efficiency.
 
-🎯 **Current Focus:** Transforming raw data into actionable insights through interactive dashboards and visualizations using Power BI and Excel, while leveraging SQL for data analysis. I'm also exploring AI tools and workflow automation using n8n to streamline business processes and improve operational efficiency.
+🎯 **Current Focus:** Transforming raw data into actionable business insights through interactive dashboards and visualizations using Power BI and Excel, while leveraging SQL and Python for data extraction, analysis, and automation.
+
+I'm also exploring AI tools and workflow automation using n8n to streamline business processes, reduce manual tasks, and improve operational efficiency.
 
 **About Me:** I started my career in manufacturing, where I gained hands-on experience tracking operational data and monitoring production processes. Today, I'm combining that industry experience with data analytics, visualization, and AI-powered automation.
 
